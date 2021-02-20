@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/hello",
   plugins: [
     {
       resolve: "smooth-doc",
